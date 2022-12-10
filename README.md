@@ -1,7 +1,7 @@
-<!--
-- 👋 Hi, I’m @AnnGreen1
-- 👀 I’m interested in Front-end development
--->
+
+👋 Hi, I’m @AnnGreen1
+👀 I’m interested in Front-end development
+
 
 <!---
 AnnGreen1/AnnGreen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
