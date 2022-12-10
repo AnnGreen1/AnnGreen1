@@ -1,7 +1,7 @@
-
+<!---
 👋 Hi, I’m @AnnGreen1              
 👀 I’m interested in Front-end development
-
+--->
 
 <!---
 AnnGreen1/AnnGreen1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +17,12 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AnnGreen1&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnGreen1&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
+<img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnGreen1&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F">
 
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :orange_book: Focusing on Front-end development
+- :hammer: 
+- :ram: 
+- :meat_on_bone: 
