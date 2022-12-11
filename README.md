@@ -30,6 +30,6 @@ You can click the Preview link to take a look at your changes.
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Front-end development
-- :hammer: 
-- :ram: 
+- :hammer: 人类所有的成就，靠的都是坚辛的努力。
+- :ram: 承认自己的无知，乃是开启智慧的大门。
 - :meat_on_bone: 
