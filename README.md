@@ -26,6 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 <img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnGreen1&hide=html,php,java,&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
 
+![dog](https://github.com/user-attachments/assets/30baa8ac-bf3f-4b41-bbea-9214c9589b71)
+
 
 ### 你好，世界 👋
 
